@@ -20,26 +20,26 @@ There are two players and a deck of 20 cards. The cards are divided into two gro
 **The first group is attacking animals. They are:**
 
 __1. Cat
-2. Eagle
+2. Eagle__
 __3. Liger
-4. Sea Serpent
+4. Sea Serpent__
 __5. Gargoyle
-6. Hydra
+6. Hydra__
 __7. Vampire
-8. Giant
+8. Giant__
 __9. Werewolf
 10. Dragon__
 
 **The second group is defending animals. They are:
 
 **1. Dog
-2. Owl
+2. Owl**
 **3. Gnome
-4. Mermaid
+4. Mermaid**
 **5. Fairy
-6. Centaur
+6. Centaur**
 **7. Hippogriff
-8. Sphinx
+8. Sphinx**
 **9. Gryphon
 10 Unicorn**
 
