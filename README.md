@@ -9,4 +9,5 @@ Currently the game has one set of 20 animals to battle with.
 **python3 main.py**
 
 **Current animals available in the game**
+
 ![animal_names](https://user-images.githubusercontent.com/17306905/94356147-0f142580-0059-11eb-8289-d3e8584b8a5b.png)
