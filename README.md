@@ -30,7 +30,7 @@ __7. Vampire
 __9. Werewolf
 10. Dragon__
 
-**The second group is defending animals. They are:
+**The second group is defending animals. They are:**
 
 **1. Dog
 2. Owl**
